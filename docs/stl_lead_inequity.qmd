@@ -89,3 +89,7 @@ stl_lead_hist
 ggsave(here::here("figs", "stl_lead_hist.png"), height = 6, width = 5)
 ```
 
+Entry 1: Ian
+- In a punk band
+- from Ventura county
+- ......... to be continued
